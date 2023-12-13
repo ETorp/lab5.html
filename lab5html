@@ -11,74 +11,45 @@
         </header>
         <main>
         <nav>
-        </nav>   
+        </nav>  
       <div class="topnav">
-  <a href="#">About Me</a>
-  <a href="#">My work</a>
-  <a href="#">Contact Me</a>
+        <ul>
+          <li><a href="illustration.html">Illustration</a></li>
+          <li><a href="painting.html">Painting</a></li>
+          <li><a href="graphicdesgin.html">Graphic Design</a></li>
 </div>
 <div id="flex-container">
-    <div><!--this is flex item 1--></div>
-    <div><!--this is flex item 2--></div>
-    <div><!--this is flex item 3--></div>
-</div>
-        <div class="row">
-    <div class="column">
-      <h2>About Me</h2>
+    <div> <h2>About Me</h2>
       <p>Hi, My name is Erica, I am currently a sophmore studying Graphic Design at Lesley University, located in Cambridge Ma. I have always been a traditional artist, specialising in paints, drawing and fiberarts and I am expanding my skillset into the digital realm to pursue my interests in Graphic Design. I grew up in Burlington Ma, graduated from Burlington High, and played soccer in high school, I was a goalie... I miss it a little bit. My hobbies include but are not limited to crochet, sewing, baking, painting and cooking.   
     </div>
-    
-    <div class="column">
-      <h2>Background</h2>
+    <div> <h2>Background</h2>
       <p> I was born an artist, I get it from my Grandmother. In her lifetime, she has co founded a bakery, been a painter, a seamstress and worked in cybersecurity. My family jokes that I am her 2.0. She taught me everything I know, how to paint, draw, sew, crochet, cook, bake, and basically everything. </p>
-    </div>
-  </div>
-  <div class="column">
+      <div class="column">
     <h2>Paragraph 3</h2>
     <p>Paragraph 3hfhierbgiersbghucefngcu3gntcue hmg ehtuveh foihgbjk ujfg bfth rh fhfj r wf sf jky , fdbdrhr6iy kfrdgsdh dxgsetg jktygjr hdhdfmk ml h8td5 2 uhvjrbtgjhb iuthg i45h 45uy i4hguhg ritgh 485uth 54u 5huy 8 </p>
   </div>
+    </div>
+    <div>  <h2>Hobbies</h2>
+      <ul>
+                <li> Painting with oil, acrylic and watercolor </li>
+                <li> Crochet</li>
+                <li> Sewing</li>
+                <li>Embroidery </li>
+                <li> Drawing </li>
+                <li> Ceramics</li>
+                <li> Cooking</li>
+                <li> Baking</li>
+            </ul></div>
+  </div>
 </div>
-h2> Here is some of my work</h2>
+<h2> Here is some of my work</h2>
       <img src=(elephant.jpg)>
 
-      h2>Favorite Foods</h2>
-      <ul>
-                <li> Alfredo pasta </li>
-                <li> Chocolate</li>
-                <li> wings</li>
-                <li> cocoa pebbles</li>
-                <li> chips or crackers and dip</li>
-                <li> Chicken pot pie</li>
-                <li> Corn Chowder</li>
-                <li> Truffle Fries</li>
-                <li> Pickles</li> 
-            </ul>
-            <hr>
-            <h2>Favorite Music</h2>
-            >Artisit</th>
-            <th>song</th>
-            <th>album</th>
-          </tr>
-          <tr>
-            <td>Taylor Swift</td>
-            <td>Tolerate it</td>
-            <td>folklore</td>
-          </tr>
-          <tr>
-            <td> Noah Kahan</td>
-            <td>If we were Vampires ft wesley shultz</td>
-            <td>Cape Elizabeth</td>
-          </tr>
-            <tr>
-            <td> Jimmy Buffet</td>
-            <td>Come Monday</td>
-            <td>Cheesebuger In Paradise</td>
-          </tr>
-        </table>
-</body>
+    
+  
   
   </body>
-  </html>
+
   
 </style>
 </head>

@@ -1,0 +1,59 @@
+
+<title>CSS Website Layout</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.flex-container {display:flex;
+background color: }
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/* Style the header */
+header {background-color: #0b5394;
+  padding: 30px;
+  text-align: center;
+color: #3381c8;}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #a8d1f6;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #3381c8;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #0b5394;
+  color: #3381c8;
+}
+
+/* Create 2 equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 50%;
+    padding: 15px;
+  }
+  
+
+  
+  /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+  @media screen and (max-width:600px) {.column {width: 100% }}
+
+html{background-color:#e7dfc9}
+
+  </style>
+ 
